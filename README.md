@@ -1,6 +1,6 @@
 # Meth.Eco.Evo-Cenci-Sugihara-Saavedra
 
-Code To reproduce the Figure in:
+Code accompanying the paper:
 
 "Regularized S-map for inference and forecasting with noisy ecological time series"
 Simone Cenci, George Sugihara, and Serguei Saavedra
